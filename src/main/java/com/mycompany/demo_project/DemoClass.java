@@ -12,6 +12,7 @@ public class DemoClass {
 
     public static void main(String[] args) {
         User user = new User("surya");
+        // add raondom line
         System.out.println(user.getFirstName());
     }
 
