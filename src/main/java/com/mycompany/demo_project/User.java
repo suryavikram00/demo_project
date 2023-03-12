@@ -13,6 +13,8 @@ public class User {
     private String firstName;
     
     private String lastName;
+    
+    // test rebase and master branc
 
     public User(String firstName) {
         this.firstName = firstName;
